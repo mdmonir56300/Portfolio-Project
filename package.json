@@ -1,0 +1,33 @@
+{
+  "name": "nucamp",
+  "version": "1.0.0",
+  "main": "index.html",
+  "scripts": {
+    "lite": "lite-server",
+    "start": "npm run lite",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Md M Monir",
+  "license": "ISC",
+  "devDependencies": {
+    "install": "^0.13.0",
+    "lite-server": "^2.3.0",
+    "npm": "^6.13.7"
+  },
+  "dependencies": {
+    "bootstrap": "^4.0.0",
+    "bootstrap-social": "^5.1.1",
+    "font-awesome": "^4.7.0",
+    "jquery": "^3.1.1",
+    "popper.js": "^1.12.9"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mdmonir56300/nucamp.git"
+  },
+  "bugs": {
+    "url": "https://github.com/mdmonir56300/nucamp/issues"
+  },
+  "homepage": "https://github.com/mdmonir56300/nucamp#readme",
+  "description": ""
+}
